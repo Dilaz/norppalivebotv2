@@ -1,0 +1,6 @@
+{
+    "apiKey": "__APIKEY__",
+    "apiSecret": "__APISECRET__",
+    "token": "__TOKEN__",
+    "tokenSecret": "__TOKENSECRET__"
+}
