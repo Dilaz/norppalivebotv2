@@ -1,0 +1,6 @@
+imutils
+numpy
+tensorflow
+opencv-python
+ffmpeg-python
+tweepy
